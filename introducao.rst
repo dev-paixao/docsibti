@@ -10,7 +10,7 @@ operacionalização da plataforma.
 .. note::
    - Para quem é isso: Usuários intermediários
    - Nível: Intermediário
-   - Tempo de leitura: 20m
+   - Tempo de leitura: 15m
 
 
 
