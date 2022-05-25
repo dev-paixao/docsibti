@@ -25,11 +25,14 @@ Para realizar o cadastro na plataforma é necessário inserir as seguintes infor
     :width: 100%
     :align: center
 
+Para logar na plataforma é necessário introduzir as credenciais de acesso criadas durante o registo:
 
-Para logar na plataforma é necessário introduzir as credenciais de acesso criadas durante o registo: 
-E-mail 
-Senha 
-Caso o sistema não reconheça o login irá mostrar a mensagem "E-mail não cadastrado.” Ou caso não reconheça a senha do usuário, irá mostrar a mensagem “Senha inválida”. 
+- E-mail 
+- Senha 
+
+.. attention::
+  Caso o sistema não reconheça o login irá mostrar a mensagem "E-mail não cadastrado.” Ou caso não reconheça a senha do usuário, irá mostrar a mensagem “Senha inválida”. 
+
 
 Recuperando a senha
 ----------------------
