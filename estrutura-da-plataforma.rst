@@ -17,7 +17,7 @@ Após o processo de autenticação, inicia-se a utilização da plataforma onde 
 
 
 .. figure:: images/v07.png
-    :width: 100%
+    :width: 70%
     :align: left
 
 

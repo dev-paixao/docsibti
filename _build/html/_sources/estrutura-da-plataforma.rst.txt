@@ -15,9 +15,11 @@ A página encontra-se dividida em duas secções principais:
 
 Após o processo de autenticação, inicia-se a utilização da plataforma onde é apresentado a tela home que dispõe os dados dos dispositivos quando existentes e o menu lateral que leva as seguintes páginas/telas: 
 
+
 .. figure:: images/v07.png
-    :width: 50%
+    :width: 70%
     :align: left
+
 
 **Dashboard:** Apresenta o dashboard e uma visão geral do sistema da plataforma.
 

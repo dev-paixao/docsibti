@@ -52,9 +52,23 @@ Também é necessário registrar um tipo no dispositivo. Isto é, se não tiver 
 
 Passo a passo de como cadastrar um dispositivo LoRaWAN
 ---------------------------------------------------------
-#. No menu lateral clique em “Dispositivos”.
-#. Caso você não tenha nenhum dispositivo cadastrado, clique em “+Dispositivo”.
-#. Na página de seleção de tipos de conexão escolha o tipo do dispositivo que será cadastrado. 
+
+1. No menu lateral clique em “Dispositivos”.
+
+.. figure:: images/v10.png
+    :width: 70%
+    :align: left
+
+
+2. Caso você não tenha nenhum dispositivo cadastrado, clique em “+Dispositivo”.
+
+.. figure:: images/v08.png
+    :width: 100%
+    :align: center
+
+Após  clicar em “+dispositivo” será redirecionado a página de seleção dos tipos de conexão, esse tipo vai depender do dispositivo que será cadastrado eles podem ser LoRaWAN, MQTT, HTTP ou Sigfox.  
+
+3.  Na página de seleção de tipos de conexão escolha o tipo do dispositivo que será cadastrado. 
 
 
 Cadastro de dispositivo MQTT
