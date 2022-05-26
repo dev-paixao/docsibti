@@ -89,11 +89,15 @@ Após  clicar em “+dispositivo” será redirecionado a página de seleção d
     :align: center
 
 06. Clique em "+VARIÁVEL” e cadastre os dados das variáveis e  das operacões.
+
 Preencha o campo “nome da variável 1” com o nome que queira dar a essa variável.
 
 .. figure:: images/v14.png
     :width: 100%
     :align: center
+
+.. note::
+  É possivel adicionar quantas variável forem necessária, assim como exclui-las.
 
 Preencha o campo “Byte inicial 1” e “Byte final 1” conforme o payload do dispositivo (consulte o datasheet do dispositivo).
 
