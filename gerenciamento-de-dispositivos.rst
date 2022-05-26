@@ -68,14 +68,45 @@ Passo a passo de como cadastrar um dispositivo LoRaWAN
 
 Após  clicar em “+dispositivo” será redirecionado a página de seleção dos tipos de conexão, esse tipo vai depender do dispositivo que será cadastrado eles podem ser LoRaWAN, MQTT, HTTP ou Sigfox.  
 
-3.  Na página de seleção de tipos de conexão escolha o tipo do dispositivo que será cadastrado. 
+3.  Antes de cadastrar um dispositivo é preciso escolher a tecnologia que utilizará para conectá-lo
+à plataforma.  Para este tutorial, selecione a opção "LoRaWAN" na página de seleção de tipos de conexão.
+
 
 .. figure:: images/v11.png
     :width: 100%
     :align: center
 
-04. Antes de cadastrar um dispositivo LoRaWAN é preciso cadastrar seu tipo para isso na tela de cadastro de dispositivos clique no botão “+” na seção tipo.
+04. Agora que a tecnologia de conexão foi escolhida, temos que cadastrar o tipo para isso na tela de cadastro de dispositivos clique no botão “+” na seção tipo. 
 
+.. figure:: images/v12.png
+    :width: 100%
+    :align: center
+
+05. Ao pressionar o botão, é exibida uma janela de cadastro de de tipo, como na imagem a seguir.  Nela temos os campos que são necessários para cadastrar o tipo, são eles nome do tipo, ordem dos bits de dados e tamanho de byte.
+
+.. figure:: images/v13.png
+    :width: 100%
+    :align: center
+
+06. Clique em "+VARIÁVEL” e cadastre os dados das variáveis e  das operacões.
+Preencha o campo “nome da variável 1” com o nome que queira dar a essa variável.
+
+.. figure:: images/v14.png
+    :width: 100%
+    :align: center
+
+Preencha o campo “Byte inicial 1” e “Byte final 1” conforme o payload do dispositivo (consulte o datasheet do dispositivo).
+
+.. figure:: images/v15.png
+    :width: 100%
+    :align: center
+
+
+Por fim, deve-se cadastrar a operação, clique em “adicionar operação ” e adicione todas as operações que forem necessárias (consulte o datasheet do dispositivo).
+
+.. figure:: images/v16.png
+    :width: 100%
+    :align: center
 
 Cadastro de dispositivo MQTT
 -----------------------------
