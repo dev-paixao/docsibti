@@ -173,3 +173,9 @@ Dos passos 01 ao 03 são iguais para todos os dispositivos.
 
 Cadastro de dispositivo HTTP
 -------------------------------
+
+Na tela de cadastro HTTP são cadastrados dispositivos com o protocolo HTTP, mantém-se o padrão do cadastro de dispositivos MQTT onde é necessário inserir as informações nos campos obrigatórios. O campo nome é utilizado para identificar o dispositivo e o EUI que é o endereço único de identificação do dispositivo (ID). A adição de variáveis também segue o padrão do cadastro na tela MQTT.
+
+.. figure:: images/v24.png
+    :width: 100%
+    :align: center
