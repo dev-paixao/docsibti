@@ -7,7 +7,6 @@ Navegando através do menu lateral, é possível acessar a tela de cadastro dos 
     :width: 100%
     :align: center
 
-
 .. attention::
   Caso não tenha nenhum  dispositivo cadastrado a mensagem “nenhum resultado encontrado” será exibida.  
 
@@ -112,11 +111,65 @@ Por fim, deve-se cadastrar a operação, clique em “adicionar operação ” e
     :width: 100%
     :align: center
 
+07. Finalize o cadastro do tipo clicando no botão cadastrar.
+
+.. figure:: images/v17.png
+    :width: 100%
+    :align: center
+
+08. Após o cadastro do tipo e ainda na tela de cadastro dos dispositivos LoRaWAN preencha os campos conforme à imagem abaixo com as suas informações do datasheet e da etiqueta de identificação do dispositivo .
+
+.. figure:: images/v18.png
+    :width: 100%
+    :align: center
+
+09. Finalize o cadastro clicando no botão cadastrar.
+
+.. figure:: images/v17.png
+    :width: 100%
+    :align: center
+
 Cadastro de dispositivo MQTT
 -----------------------------
 
+Na tela Cadastro MQTT realiza-se o cadastro de dispositivos que utilizam o protocolo MQTT. Para isso é necessário inserir as informações nos campos obrigatórios, que são: nome, que serve para identificar o dispositivo,  EUI que é o endereço único de identificação do dispositivo (id), adicionar uma variável ou selecionar uma existente. Abaixo tem-se a comunicação com o dispositivo e as informações que são exibidas após os campos de cadastro.
+
+.. figure:: images/v19.png
+    :width: 100%
+    :align: center
+
 Cadastrando um dispositivo MQTT
 --------------------------------
+
+Dos passos 01 ao 03 são iguais para todos os dispositivos.
+
+.. figure:: images/v20.png
+    :width: 100%
+    :align: center
+
+04. Antes de cadastrar um dispositivo MQTT é preciso adicionar suas variáveis, para isso na tela de cadastro de dispositivos MQTT clique no botão “+Adicionar Variáveis". 
+
+.. figure:: images/v21.png
+    :width: 100%
+    :align: center
+
+05. Após clicar no botão “+Adicionar Variáveis” preencha os campos adicionar variável e unidade e clique em  “adicionar” e posteriormente em “salvar” . A imagem abaixo ilustra os campos que são necessários para adicionar as variáveis do dispositivo MQTT.
+
+.. figure:: images/v22.png
+    :width: 100%
+    :align: center
+
+06. Após o cadastro das variáveis e ainda na tela de cadastro dos dispositivos MQTT finalize o cadastro inserindo o nome e um EUI para o dispositivo. 
+
+.. figure:: images/v23.png
+    :width: 100%
+    :align: center
+
+07. Finalize o cadastro clicando no botão cadastrar.
+
+.. figure:: images/v17.png
+    :width: 100%
+    :align: center
 
 Cadastro de dispositivo HTTP
 -------------------------------
